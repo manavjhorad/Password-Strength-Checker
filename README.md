@@ -80,6 +80,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 ## Contact
 
-Your Name - your.email@example.com
+Manav - manavjhorad@gmail.com
 
 Project Link: https://github.com/manavjhorad/Password-Strength-Checker/
